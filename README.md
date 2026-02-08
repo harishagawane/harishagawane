@@ -39,7 +39,7 @@ I'm a passionate developer specializing in building advanced AI-powered video pl
 
 ## 📫 Connect with Me
 
-- 📧 **Email**: [harish@apnadukaan.shop](mailto:harish@apnadukaan.shop)
+- 📧 **Email**: [harish@shravani.group](mailto:harish@shravani.grouo)
 - 💼 **LinkedIn**: [Harish Sagawane](https://linkedin.com/in/harishsagawane)
 - 🌐 **Project**: [VideoAvatar.ai](https://videoavatar.ai)
 
