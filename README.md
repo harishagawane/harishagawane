@@ -31,6 +31,7 @@ I'm a passionate developer specializing in building advanced AI-powered video pl
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)
 
 ## 📊 GitHub Stats
 
@@ -39,8 +40,9 @@ I'm a passionate developer specializing in building advanced AI-powered video pl
 
 ## 📫 Connect with Me
 
-- 📧 **Email**: [harish@shravani.group](mailto:harish@shravani.grouo)
+- 📧 **Email**: [harish@apnadukaan.shop](mailto:harish@apnadukaan.shop)
 - 💼 **LinkedIn**: [Harish Sagawane](https://linkedin.com/in/harishsagawane)
+- 🤗 **Hugging Face**: [Shravani Limited](https://huggingface.co/Shravani-Limited)
 - 🌐 **Project**: [VideoAvatar.ai](https://videoavatar.ai)
 
 ---
